@@ -1,5 +1,5 @@
-const studentroutes = require("routes/student");
-const bookroutes = require("routes/book");
+const studentroutes = require("./src/routes/student");
+const bookroutes = require("./src/routes/book");
 
 //express import
 const express = require("express");
